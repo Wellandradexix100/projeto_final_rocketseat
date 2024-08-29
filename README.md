@@ -63,7 +63,3 @@ Para mais informações ou dúvidas, entre em contato com:
 - **LinkedIn**: [Wellington Andrade](https://www.linkedin.com/in/wellington-andrade-2b48a8238/)
 
 Feito com ♥ por WellAndrade através da Rocketseat.
-
----
-
-Sinta-se à vontade para ajustar qualquer informação ou adicionar detalhes específicos que desejar!
